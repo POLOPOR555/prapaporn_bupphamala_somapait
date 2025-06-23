@@ -1,2 +1,16 @@
 pandas
 nltk
+matplotlib
+scikit-learn
+seaborn
+numpy
+wordcloud
+openai
+langchain
+langchain-openai
+langchain-community
+chromadb
+pypdf
+sentence-transformers
+transformers
+chromadb
